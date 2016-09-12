@@ -1,0 +1,9 @@
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Debug\MainSoftware.Form1.resources
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Debug\MainSoftware.Properties.Resources.resources
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Debug\MainSoftware.csproj.GenerateResource.Cache
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\bin\Debug\MainSoftware.exe.config
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\bin\Debug\MainSoftware.exe
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\bin\Debug\MainSoftware.pdb
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Debug\MainSoftware.exe
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Debug\MainSoftware.pdb
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Debug\MainSoftware.csprojResolveAssemblyReference.cache

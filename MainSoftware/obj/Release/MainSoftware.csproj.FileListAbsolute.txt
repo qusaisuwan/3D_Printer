@@ -1,0 +1,8 @@
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\bin\Release\MainSoftware.exe.config
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\bin\Release\MainSoftware.exe
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\bin\Release\MainSoftware.pdb
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Release\MainSoftware.Form1.resources
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Release\MainSoftware.Properties.Resources.resources
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Release\MainSoftware.csproj.GenerateResource.Cache
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Release\MainSoftware.exe
+C:\Users\Qusai\Desktop\3D printing Project\MainSoftware\MainSoftware\obj\Release\MainSoftware.pdb
